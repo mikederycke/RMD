@@ -1,9 +1,8 @@
-
+let canvas, ctx;
 
 $(function(){
 
-    let canvas = document.getElementById('c');
-    let ctx;
+    canvas = document.getElementById('c');
     if(canvas.getContext){
         ctx = canvas.getContext('2d');
         draw();
@@ -13,4 +12,3 @@ $(function(){
 
     }
 });
-
