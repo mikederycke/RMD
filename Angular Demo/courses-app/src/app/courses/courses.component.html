@@ -1,0 +1,17 @@
+<label>Course name</label>
+<!--<input-->
+  <!--type="text"-->
+  <!--class="form-control"-->
+  <!--(input)="onUpdateCourseName($event)">-->
+<input
+  type="text"
+  class="form-control"
+  [(ngModel)]="courseName">
+<!--<p>{{ courseName }}</p>-->
+<button class="btn btn-info"
+  [disabled]="allowNewCourse"
+  (click)="onCreateCourse()" >Add Course</button>
+<p>{{courseCreationStatus}}</p>
+<app-course></app-course>
+<app-course></app-course>
+<app-course></app-course>
