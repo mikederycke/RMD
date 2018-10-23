@@ -11,7 +11,8 @@
 <button class="btn btn-info"
   [disabled]="allowNewCourse"
   (click)="onCreateCourse()" >Add Course</button>
-<p>{{courseCreationStatus}}</p>
+<!--<p>{{courseCreationStatus}}</p>-->
+<p *ngIf="courseCreated">Course was created. The name is {{courseName}}</p>
 <app-course></app-course>
 <app-course></app-course>
 <app-course></app-course>

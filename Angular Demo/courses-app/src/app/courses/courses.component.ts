@@ -9,6 +9,7 @@ export class CoursesComponent implements OnInit {
   allowNewCourse = true;
   courseCreationStatus = 'No course was created!';
   courseName = '';
+  courseCreated = false;
 
   constructor() {
     setTimeout(() => {
@@ -21,6 +22,7 @@ export class CoursesComponent implements OnInit {
   }
 
   onCreateCourse(){
+    this.courseCreated = true;
     this.courseCreationStatus = `Course was created! Name is ${this.courseName}`;
   }
 
