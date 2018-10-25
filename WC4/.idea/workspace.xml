@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="010ddfeb-8c21-4658-a21e-3dfe79dd4370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/clitest/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/demo/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/nieuwe-app/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/testapp/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular Demo/untitledapp/tslint.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1796559025">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="9" />
+          <entry key="js" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="9" />
+          <entry key="JavaScript" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="59" />
+          <entry key="js" value="474" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="59" />
+          <entry key="JavaScript" value="474" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oef1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oef2/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oef3/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oef1/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oef3/index.html" />
+        <option value="$PROJECT_DIR$/oef3/css/style.css" />
+        <option value="$PROJECT_DIR$/oef3/js/script.js" />
+        <option value="$PROJECT_DIR$/oef1/index.html" />
+        <option value="$PROJECT_DIR$/oef1/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/testapp/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/testapp/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSJQueryEfficiency</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef1" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef2" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WC4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WC4" type="462c0819:PsiDirectoryNode" />
+              <item name="oef3" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_GIT\RMD\WC4\oef2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_GIT\RMD\WC4\oef3\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WC4/oef1/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WC4/oef3/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WC4/oef2/index.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="010ddfeb-8c21-4658-a21e-3dfe79dd4370" name="Default Changelist" comment="" />
+      <created>1539853911658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539853911658</updated>
+      <workItem from="1539853913660" duration="2612000" />
+      <workItem from="1539857792774" duration="11000" />
+      <workItem from="1540365096037" duration="3954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6577000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17640863" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1765625" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/oef3/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef1/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef3/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oef2/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
