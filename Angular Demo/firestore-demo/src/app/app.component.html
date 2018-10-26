@@ -1,0 +1,5 @@
+<div class="list-group">
+  <a href="#" class="list-group-item list-group-item-action" *ngFor="let movie of movies | async">
+    {{movie.title}} | {{movie.release}}
+  </a>
+</div>
